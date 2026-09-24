@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pillow
+rembg
+moviepy
+google-auth
+python-multipart
